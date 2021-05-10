@@ -5,7 +5,7 @@
  
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+just+a+new+little+Developer"></a>
+  <a href="https://github.com/Dezkrazzer"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+just+a+new+little+Developer"></a>
 </p>
  
 > Hello, my name is Lazuardi Akbar from Ngawi, East Java, Indonesia. A boy who is interested in programming, crazy about games, and very interested in the world of creators. A Head Founder of [Secret Development](https://dsc.gg/secretdev) and as community management. As a content maker on social media. A person who likes to help others in my own way
@@ -15,16 +15,16 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dezkrazzer&repo=aeeroobot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dezkrazzer&repo=wa-bots&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=secretDevelopment17&repo=secretdev.js&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/DenverCoder1/weather-app-tutorial"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=secretDevelopment17&repo=hexabot-music&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="weather-app-tutorial"></a>
-  <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GC-spigot&repo=AdvancedEnchantments&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
-  <a href="https://github.com/DenverCoder1/table2ascii"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hansputera&repo=whatsapp-bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
+  <a href="https://github.com/Dezkrazzer/aeeroobot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dezkrazzer&repo=aeeroobot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Dezkrazzer"></a>
+  <a href="https://github.com/Dezkrazzer/wa-bots"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dezkrazzer&repo=wa-bots&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Dezkrazzer"></a>
+  <a href="https://github.com/secretDevelopment17/secretdev.js"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=secretDevelopment17&repo=secretdev.js&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Simple Api Wrapper for Secret Development"></a>
+  <a href="https://github.com/secretDevelopment17/hexabot-music"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=secretDevelopment17&repo=hexabot-music&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Hexa Bot Music"></a>
+  <a href="https://github.com/Dezkrazzer"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GC-spigot&repo=AdvancedEnchantments&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
+  <a href="https://github.com/Dezkrazzer"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hansputera&repo=whatsapp-bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
 </p>
  
 <p align="left">
-  <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/Dezkrazzer?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
  
 ## 📕 Top projects I've contributed to
@@ -32,14 +32,14 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=secretDevelopment17&repo=secretdev.js&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/simple-icons/simple-icons"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=secretDevelopment17&repo=hexabot-music&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-icons"></a>
-  <a href="https://github.com/rahuldkjain/github-profile-readme-generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dezkrazzer&repo=aeeroobot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-profile-readme-generator"></a>
+  <a href="https://github.com/secretDevelopment17/secretdev.js"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=secretDevelopment17&repo=secretdev.js&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/secretDevelopment17/hexabot-music"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=secretDevelopment17&repo=hexabot-music&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-icons"></a>
+  <a href="https://github.com/Dezkrazzer/aeeroobot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dezkrazzer&repo=aeeroobot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-profile-readme-generator"></a>
  
 </p>
  
 <p align="left">
-  <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Forks-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/Dezkrazzer"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Forks-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
  
 ## 🙋‍♂️ Connect with me
