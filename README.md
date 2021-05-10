@@ -152,7 +152,7 @@
   <br/>
  
 <!--START_SECTION:activity-->
-[ NONE ]
+1. 🎉 Merged PR [#1](https://github.com/Dezkrazzer/DenverCoder1/pull/1) in [Dezkrazzer/DenverCoder1](https://github.com/Dezkrazzer/DenverCoder1)
 <!--END_SECTION:activity-->
 </details>
  
