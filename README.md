@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+just+a+new+little+Developer"></a>
 </p>
  
-> Hello, my name is Lazuardi Akbar from Ngawi, East Java, Indonesia. A boy who is interested in programming, crazy about games, and very interested in the world of creators. A Head Founder of Secret Development and as community management. As a content maker on social media. A person who likes to help others in my own way
+> Hello, my name is Lazuardi Akbar from Ngawi, East Java, Indonesia. A boy who is interested in programming, crazy about games, and very interested in the world of creators. A Head Founder of [Secret Development](https://dsc.gg/secretdev) and as community management. As a content maker on social media. A person who likes to help others in my own way
  
 ## 📘 My top open source projects
  
