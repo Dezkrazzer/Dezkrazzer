@@ -134,19 +134,6 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
  
-## 📺 Latest YouTube videos
- 
-<!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- YouTube Cards - WIP by DenverCoder1 -->
- 
-<!-- YOUTUBE:START -->
-[![Make Stats Command Complete | Discord.js v12 | Secret Development Tutorial #4](https://freshidea.com/jonah/app/youtube-card/?id=dS4VtaZgmdA&title=FFFFFF)](https://www.youtube.com/watch?v=dS4VtaZgmdA "Make Stats Command Complete | Discord.js v12 | Secret Development Tutorial #4")
-[![Make Avatar Command with 4K Resolution | Discord.js v12 | Secret Development Tutorial #3](https://freshidea.com/jonah/app/youtube-card/?id=S-aqO7Prx0s&title=FFFFFF)](https://www.youtube.com/watch?v=S-aqO7Prx0s "Make Avatar Command with 4K Resolution | Discord.js v12 | Secret Development Tutorial #3")
-[![Making say and sayembed Command | Discord.js v12 | Secret Development Tutorial #2](https://freshidea.com/jonah/app/youtube-card/?id=pT86S-Ag_9c&title=FFFFFF)](https://www.youtube.com/watch?v=pT86S-Ag_9c "Making say and sayembed Command | Discord.js v12 | Secret Development Tutorial #2")
-[![How to Make Discord Bot free No Application | Discord.js v12 | Secret Development Tutorial #1](https://freshidea.com/jonah/app/youtube-card/?id=nvTqOmdZYW4&title=FFFFFF)](https://www.youtube.com/watch?v=nvTqOmdZYW4 "How to Make Discord Bot free No Application | Discord.js v12 | Secret Development Tutorial #1")<!-- YOUTUBE:END -->
- 
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
- 
 ## 📊 Github stats
  
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -156,7 +143,6 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dezkrazzer's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Dezkrazzer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dezkrazzer's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Dezkrazzer&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
  
  
