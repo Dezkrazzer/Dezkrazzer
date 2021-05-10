@@ -8,22 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+just+a+new+little+Developer"></a>
 </p>
  
-<!-- Badges template - https://github.com/badges/shields -->
-<!-- YouTube Stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCho0s4LYgbs4nqXjwAASjTQ?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCho0s4LYgbs4nqXjwAASjTQ?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
- 
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCho0s4LYgbs4nqXjwAASjTQ?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/></a> 
- 
-  <a href="https://twitter.com/DenverCoder1">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/lzuardiakbr?color=55960C&label=follow&logo=twitter&logoColor=FFFFFF&style=for-the-badge&labelColor=488207"/></a>
- 
-  <a href="https://github.com/DenverCoder1">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Dezkrazzer?color=236AD3&label=follow&logo=github&style=for-the-badge&labelColor=1155BA"/></a>
-</p>
+> Hello, my name is Lazuardi Akbar from Ngawi, East Java, Indonesia. A boy who is interested in programming, crazy about games, and very interested in the world of creators. A Head Founder of Secret Development and as community management. As a content maker on social media. A person who likes to help others in my own way
  
 ## 📘 My top open source projects
  
