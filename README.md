@@ -152,9 +152,9 @@
   <br/>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/DenverCoder1/readme-typing-svg/issues/30) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🎉 Merged PR [#90](https://github.com/DenverCoder1/github-readme-streak-stats/pull/90) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🎉 Merged PR [#91](https://github.com/DenverCoder1/github-readme-streak-stats/pull/91) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🎉 Merged PR [#1](https://github.com/Dezkrazzer/DenverCoder1/pull/1) in [Dezkrazzer/DenverCoder1](https://github.com/Dezkrazzer/DenverCoder1)
+2. 💪 Opened PR [#1](https://github.com/Dezkrazzer/DenverCoder1/pull/1) in [Dezkrazzer/DenverCoder1](https://github.com/Dezkrazzer/DenverCoder1)
+3. ❗️ Opened issue [#1911](https://github.com/GC-spigot/AdvancedEnchantments/issues/1911) in [GC-spigot/AdvancedEnchantments](https://github.com/GC-spigot/AdvancedEnchantments)
 4. 🎉 Merged PR [#93](https://github.com/DenverCoder1/github-readme-streak-stats/pull/93) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 5. 💪 Opened PR [#93](https://github.com/DenverCoder1/github-readme-streak-stats/pull/93) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
