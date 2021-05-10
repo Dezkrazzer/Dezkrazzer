@@ -52,6 +52,8 @@
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logoColor=white&logo=discord"/></a>
   <a href="https://www.instagram.com/dezkrazzer_" alt="Secret Development">
     <img src="https://img.shields.io/badge/-Instagram-7339B0?style=for-the-badge&logoColor=white&logo=instagram"/></a>
+  <a href="https://www.facebook.com/dezkrazzer.yt.5" alt="Secret Development">
+    <img src="https://img.shields.io/badge/-Facebook-006AB9?style=for-the-badge&logoColor=white&logo=facebook"/></a>
 </p>
  
 ## 🔥 Streak stats
