@@ -152,7 +152,7 @@
   <br/>
  
 <!--START_SECTION:activity-->
-
+[ NONE ]
 <!--END_SECTION:activity-->
 </details>
  
