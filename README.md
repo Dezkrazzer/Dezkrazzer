@@ -50,6 +50,8 @@
   <a href="https://twitter.com/lzuardiakbr"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://dsc.gg/secretdev" alt="Secret Development">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logoColor=white&logo=discord"/></a>
+  <a href="https://www.instagram.com/dezkrazzer_" alt="Secret Development">
+    <img src="https://img.shields.io/badge/-Instagram-7339B0?style=for-the-badge&logoColor=white&logo=instagram"/></a>
 </p>
  
 ## 🔥 Streak stats
