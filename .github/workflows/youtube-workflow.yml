@@ -14,7 +14,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCipSxT7a3rn81vGLw9lqRkg"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCeMM8b7Wt3Y4goKzR-Xf-Hw"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           max_post_count: 6
           template: "$newline[![$title](https://freshidea.com/jonah/app/youtube-card/?id=$videoId&title=FFFFFF)]($url \"$title\")"
