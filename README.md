@@ -136,7 +136,7 @@
   <br/>
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Dezkrazzer/DenverCoder1/pull/1) in [Dezkrazzer/DenverCoder1](https://github.com/Dezkrazzer/DenverCoder1)
+1. 🎉 Merged PR [#1](https://github.com/Dezkrazzer/example-command-handler/pull/1) in [Dezkrazzer/example-command-handler](https://github.com/Dezkrazzer/example-command-handler)
 <!--END_SECTION:activity-->
 </details>
  
