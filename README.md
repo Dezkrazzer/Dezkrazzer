@@ -136,7 +136,7 @@
   <br/>
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Dezkrazzer/example-command-handler/pull/1) in [Dezkrazzer/example-command-handler](https://github.com/Dezkrazzer/example-command-handler)
+1. 💪 Opened PR [#236](https://github.com/MhankBarBar/whatsapp-bot/pull/236) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
 <!--END_SECTION:activity-->
 </details>
  
