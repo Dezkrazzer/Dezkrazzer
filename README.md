@@ -136,7 +136,7 @@
   <br/>
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#236](https://github.com/MhankBarBar/whatsapp-bot/pull/236) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
+1. ❗️ Opened issue [#1822](https://github.com/open-wa/wa-automate-nodejs/issues/1822) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 </details>
  
