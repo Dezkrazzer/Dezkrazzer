@@ -22,7 +22,7 @@
 </p>
 
 
-### Skills:
+### 🖥 Skills:
 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
@@ -38,17 +38,17 @@
 
 
 
-<a href="https://github.com/Shubhamrawat5">
+<a href="https://github.com/Dezkrazzer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dezkrazzer&theme=dark&exclude_repo=projects-and-projects,open-source-contribution" />
 </a>
 
-### Github Stats:
+### 📊 Github Stats:
 ![Dezkrazzer's github stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=Dezkrazzer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
 ![Dezkrazzer's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Dezkrazzer&theme=monokai-metallian&hide_border=true)
 <br />
 ![Dezkrazzer's github stats](https://activity-graph.herokuapp.com/graph?username=Dezkrazzer&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
-### Top Repo:
+### 📚 Top Repo:
   <a href="https://github.com/secretDevelopment17/secretdev.js"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=secretDevelopment17&repo=secretdev.js&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
   <a href="https://github.com/secretDevelopment17/hexabot-music"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=secretDevelopment17&repo=hexabot-music&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-icons"></a>
   <a href="https://github.com/Dezkrazzer/aeeroobot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dezkrazzer&repo=aeeroobot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-profile-readme-generator"></a>
