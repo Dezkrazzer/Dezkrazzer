@@ -8,7 +8,7 @@
   <a href="https://github.com/Dezkrazzer"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+just+a+new+little+Developer"></a>
 </p>
  
-> Hello, my name is Lazuardi Akbar from Ngawi, East Java, Indonesia. A boy who is interested in programming, crazy about games, and very interested in the world of creators. A Head Founder of [Secret Development](https://dsc.gg/athx) and as community management. As a content maker on social media. A person who likes to help others in my own way
+> Hello, my name is Lazuardi Akbar from Ngawi, East Java, Indonesia. A boy who is interested in programming, crazy about games, and very interested in the world of creators. A Head Founder of [Acro Network](https://dsc.gg/acronetwork) and as community management. As a content maker on social media. A person who likes to help others in my own way
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCho0s4LYgbs4nqXjwAASjTQ"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -38,7 +38,7 @@
 
 
 <a href="https://github.com/Dezkrazzer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dezkrazzer&theme=dark&exclude_repo=projects-and-projects,open-source-contribution" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dezkrazzer&langs_count=8&theme=dark&exclude_repo=projects-and-projects,open-source-contribution" />
 </a>
 
 ### 📊 Github Stats:
@@ -47,7 +47,7 @@
 <br />
 
 ### 📚 Top Repo:
-  <a href="https://github.com/secretDevelopment17/secretdev.js"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=secretDevelopment17&repo=secretdev.js&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/secretDevelopment17/secretdev.js"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dezkrazzer&repo=unesa-project.js&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
   <a href="https://github.com/secretDevelopment17/hexabot-music"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=secretDevelopment17&repo=hexabot-music&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-icons"></a>
   <a href="https://github.com/Dezkrazzer/aeeroobot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dezkrazzer&repo=aeeroobot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-profile-readme-generator"></a>
 
