@@ -1,12 +1,11 @@
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+
 <h3 align="center">
-  Welcome to my profile!
+  Hello! I'm Dezkrazzer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
  
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/Dezkrazzer"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+just+a+new+little+Developer"></a>
-</p>
+
  
 > Hello, my name is Lazuardi Akbar from Ngawi, East Java, Indonesia. A boy who is interested in programming, crazy about games, and very interested in the world of creators. A Head Founder of [Acro Network](https://dsc.gg/acronetwork) and as community management. As a content maker on social media. A person who likes to help others in my own way
 
@@ -25,16 +24,13 @@
 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 
+<br>
 
 
 <a href="https://github.com/Dezkrazzer">
