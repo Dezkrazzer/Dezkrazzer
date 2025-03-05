@@ -38,8 +38,31 @@
 </a>
 
 ### 📊 Github Stats:
-![Dezkrazzer's github stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=Dezkrazzer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dezkrazzer&theme=monokai-metallian&hide_border=true)
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dezkrazzer&langs_count=8&theme=dark&exclude_repo=projects-and-projects,open-source-contribution" />
+    </td>
+    <td width="50%" align="center">
+  ![Dezkrazzer's github stats](https://denvercoder1-github-readme-stats.vercel.app/api?       username=Dezkrazzer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dezkrazzer&theme=monokai-metallian&hide_border=true)
+      </td>
+    </tr>
+</table>
+
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api?       username=Dezkrazzer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="150" alt="stats graph" />
+      <br><br>  
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Dezkrazzer&theme=monokai-metallian&hide_border=true" height="150" alt="streak graph"  />
+    </td>
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dezkrazzer&langs_count=8&theme=dark&exclude_repo=projects-and-projects,open-source-contribution" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 <br />
 
 ### 📚 Top Repo:
