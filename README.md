@@ -32,36 +32,23 @@
 
 <br>
 
+### 🏆 Github Trophy:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Dezkrazzer&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-<a href="https://github.com/Dezkrazzer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dezkrazzer&langs_count=8&theme=dark&exclude_repo=projects-and-projects,open-source-contribution" />
-</a>
+###
+
 
 ### 📊 Github Stats:
-<table align="center" style="border-collapse: collapse;">
-  <tr>
-    <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dezkrazzer&langs_count=8&theme=dark&exclude_repo=projects-and-projects,open-source-contribution" />
-    </td>
-    <td width="50%" align="center">
-  ![Dezkrazzer's github stats](https://denvercoder1-github-readme-stats.vercel.app/api?       username=Dezkrazzer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dezkrazzer&theme=monokai-metallian&hide_border=true)
-      </td>
-    </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dezkrazzer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="220" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dezkrazzer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="220" alt="languages graph"  />
+<br></br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dezkrazzer&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-<table align="center" style="border-collapse: collapse;">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api?       username=Dezkrazzer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="150" alt="stats graph" />
-      <br><br>  
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Dezkrazzer&theme=monokai-metallian&hide_border=true" height="150" alt="streak graph"  />
-    </td>
-    <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dezkrazzer&langs_count=8&theme=dark&exclude_repo=projects-and-projects,open-source-contribution" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+###
 
 <br />
 
@@ -70,3 +57,6 @@
   <a href="https://github.com/Dezkrazzer/java-lyrics"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dezkrazzer&repo=java-lyrics&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-icons"></a>
   <a href="https://github.com/Dezkrazzer/aeeroobot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dezkrazzer&repo=aeeroobot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-profile-readme-generator"></a>
 
+<img src="https://raw.githubusercontent.com/Dezkrazzer/Dezkrazzer/output/snake.svg" alt="Snake animation" />
+
+###
