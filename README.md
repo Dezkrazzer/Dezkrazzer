@@ -6,8 +6,13 @@
 </h3>
  
 
- 
-> Hello, my name is Lazuardi Akbar from Ngawi, East Java, Indonesia. A boy who is interested in programming, crazy about games, and very interested in the world of creators. A Head Founder of [Acro Network](https://dsc.gg/acronetwork) and as community management. As a content maker on social media. A person who likes to help others in my own way
+<div style="display: flex; align-items: center; gap: 15px;">
+    <img src="https://i.imgur.com/jeehDVC.png" width="100">
+    <blockquote style="margin: 0;">
+        Hello, my name is Lazuardi Akbar from Ngawi, East Java, Indonesia. A boy who is interested in programming, crazy about games, and very interested in the world of creators. A Head Founder of <a href="https://dsc.gg/acronetwork">Acro Network</a> and as community management. As a content maker on social media. A person who likes to help others in my own way.
+    </blockquote>
+</div>
+
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCho0s4LYgbs4nqXjwAASjTQ"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
