@@ -22,13 +22,14 @@
 
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCho0s4LYgbs4nqXjwAASjTQ"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://lzuardiai.my.id">
+    <img alt="Web" title="Web" src="https://img.shields.io/badge/-Website-white?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCho0s4LYgbs4nqXjwAASjTQ">
+    <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://dsc.gg/acronetwork" alt="Acro">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logoColor=white&logo=discord"/></a>
   <a href="https://www.instagram.com/lzuardiai" alt="@lzuardiai">
     <img src="https://img.shields.io/badge/-Instagram-7339B0?style=for-the-badge&logoColor=white&logo=instagram"/></a>
-  <a href="https://www.facebook.com/lzuardiakbr" alt="lzuardiakbr">
-    <img src="https://img.shields.io/badge/-Facebook-006AB9?style=for-the-badge&logoColor=white&logo=facebook"/></a>
 </p>
 
 
@@ -42,6 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
