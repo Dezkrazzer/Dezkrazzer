@@ -73,7 +73,7 @@
 ### 📊 Github Stats:
 <div align="center">
   <img src="https://githubstats.lzuardiai.my.id/api?username=Dezkrazzer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="215" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dezkrazzer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="215" alt="languages graph"  />
+  <img src="https://githubstats.lzuardiai.my.id/api/top-langs?username=Dezkrazzer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="215" alt="languages graph"  />
 <br></br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Dezkrazzer&theme=dracula&hide_border=false" height="215" alt="streak graph"  />
 <br></br>
@@ -85,9 +85,9 @@
 <br />
 
 ### 📚 Top Repo:
-  <a href="https://github.com/Dezkrazzer/discordjs-v14-template"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=Dezkrazzer&repo=discordjs-v14-template&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/Dezkrazzer/website-ejs-template"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=Dezkrazzer&repo=website-ejs-template&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/Dezkrazzer/java-lyrics"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=Dezkrazzer&repo=java-lyrics&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="simple-icons"></a>
+  <a href="https://github.com/Dezkrazzer/discordjs-v14-template"><img width="282" src="https://githubstats.lzuardiai.my.id/api/pin/?username=Dezkrazzer&repo=discordjs-v14-template&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/Dezkrazzer/website-ejs-template"><img width="282" src="https://githubstats.lzuardiai.my.id/api/pin/?username=Dezkrazzer&repo=website-ejs-template&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/Dezkrazzer/java-lyrics"><img width="282" src="https://githubstats.lzuardiai.my.id/api/pin/?username=Dezkrazzer&repo=java-lyrics&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="simple-icons"></a>
 <img src="https://raw.githubusercontent.com/Dezkrazzer/Dezkrazzer/output/snake.svg" alt="Snake animation" />
 
 ###
