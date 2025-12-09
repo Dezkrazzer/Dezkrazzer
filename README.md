@@ -64,7 +64,7 @@
 
 ### 🏆 Github Trophy:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Dezkrazzer&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy-cyyin.vercel.app/?username=Dezkrazzer&theme=dracula&title=-Reviews&column=-1&margin-w=15&margin-h=15&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
