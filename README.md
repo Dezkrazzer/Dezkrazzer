@@ -84,7 +84,7 @@
     </tr>
   </table>
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Dezkrazzer&theme=dracula&hide_border=false" height="215" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dezkrazzer&theme=dracula" height="215" alt="streak graph" />
   
   <br><br>
 
