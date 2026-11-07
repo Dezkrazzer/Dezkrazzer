@@ -46,6 +46,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -56,6 +60,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgre logo"  />
 </div>
 
 ###
@@ -76,7 +81,7 @@
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://githubstats.lzuardiai.my.id/api?username=Dezkrazzer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="215" alt="stats graph" />
+        <img src="https://github-stats-extended.vercel.app/api?username=Dezkrazzer&custom_title=My%20Github%20Statistic&show_icons=true&include_all_commits=true&theme=dracula" height="215" alt="stats graph" />
       </td>
       <td align="center" valign="middle">
         <img src="https://githubstats.lzuardiai.my.id/api/top-langs?username=Dezkrazzer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="215" alt="languages graph" />
@@ -88,18 +93,15 @@
   
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dezkrazzer&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 
 </div>
 
 ###
 
-<br />
-
 ### 📚 Top Repo:
-  <a href="https://github.com/Dezkrazzer/discordjs-v14-template"><img width="282" src="https://githubstats.lzuardiai.my.id/api/pin/?username=Dezkrazzer&repo=discordjs-v14-template&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/Dezkrazzer/website-ejs-template"><img width="282" src="https://githubstats.lzuardiai.my.id/api/pin/?username=Dezkrazzer&repo=website-ejs-template&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/Dezkrazzer/java-lyrics"><img width="282" src="https://githubstats.lzuardiai.my.id/api/pin/?username=Dezkrazzer&repo=java-lyrics&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="simple-icons"></a>
+  <a href="https://github.com/Dezkrazzer/discordjs-v14-template"><img width="282" src="https://github-stats-extended.vercel.app/api/pin/?username=Dezkrazzer&repo=discordjs-v14-template&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/Dezkrazzer/website-ejs-template"><img width="282" src="https://github-stats-extended.vercel.app/api/pin/?username=Dezkrazzer&repo=website-ejs-template&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+
 <img src="https://raw.githubusercontent.com/Dezkrazzer/Dezkrazzer/output/snake.svg" alt="Snake animation" />
 
 ###
